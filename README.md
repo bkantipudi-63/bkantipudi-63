@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bkantipudi-63
+- 👋 Hi, I’m Bhavana
 - 👀 I’m interested in FPGAS and Embedded Designs and Semiconductors.
-- 🌱 I’m currently learning a bit about Robotics and Cmputer Networks
+- 🌱 I’m currently learning a bit about Robotics and Computer Networks
 - 💞️ I’m looking to collaborate on Electrical-Computer Science Projects
 - 📫 How to reach me: email: bhavanakantipudi.2005@gmail.com
 - 😄 Pronouns: She/Her
